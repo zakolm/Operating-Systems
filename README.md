@@ -25,6 +25,10 @@
 | Number | Issued | Status | On GitHub | Exercise |
 |------|---|------|----------|---|
 | :one: | :white_check_mark: | :white_check_mark: | :white_check_mark: | Изучение простейшего демона в Unix и правил его написания |
-| :two: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |
-| :three: | :white_check_mark: | :x: | :x: | |
+| :two: | :white_check_mark: | :white_check_mark: | :white_check_mark: | Рекурсивный(итерационный) обход дерева каталогов в Unix |
+| :three: | :white_check_mark: | :x: | :x: | Загружаемые модули ядра |
 | :four: | :x: | :x: | :x: | |
+| :five: | :x: | :x: | :x: | |
+| :six: | :x: | :x: | :x: | |
+| :seven: | :x: | :x: | :x: | |
+| :eight: | :x: | :x: | :x: | |
