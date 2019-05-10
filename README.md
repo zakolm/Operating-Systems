@@ -23,12 +23,12 @@
 | :x: - Не готова. |
 
 | Number | Issued | Status | On GitHub | Exercise |
-|------|---|------|----------|---|
+|----------|---|------|----------|---|
 | :one: | :white_check_mark: | :white_check_mark: | :white_check_mark: | Изучение простейшего демона в Unix и правил его написания |
 | :two: | :white_check_mark: | :white_check_mark: | :white_check_mark: | Рекурсивный(итерационный) обход дерева каталогов в Unix |
 | :three: | :white_check_mark: | :white_check_mark: | :white_check_mark: | Загружаемые модули ядра |
 | :four: | :white_check_mark: | :white_check_mark: | :x: | Обмен данными между пространством пользователя и пространством ядра(фортунка) |
-| :five: | :white_check_mark: | :x: | :x: | |
+| :five: | :white_check_mark: :x: | :x: | :x: :white_check_mark: | |
 | :six: | :x: | :x: | :x: | |
 | :seven: | :x: | :x: | :x: | |
 | :eight: | :x: | :x: | :x: | |
