@@ -1,0 +1,64 @@
+% Титульный лист (ГОСТ Р 7.0.11-2001, 5.1)
+% титульный лист
+\newpage
+\begin{titlepage}
+\thispagestyle{empty}
+
+{\large
+\begin{center}
+%\thesisOrganization
+	\textsl{Федеральное государственное бюджетное образовательное учреждение высшего профессионального образования \\* }	
+	\vspace{2em}
+\end{center}
+}
+%\vspace{0pt plus4fill} %число перед fill = кратность относительно некоторого расстояния fill, кусками которого заполнены пустые места
+\IfFileExists{img/bmstu-logo.png}
+{
+\begin{minipage}[t]{0.13\textwidth}
+  \centering\raisebox{\dimexpr \topskip-\height}{%
+  \includegraphics[width=\textwidth]{bmstu-logo.png}}
+  \label{fig0}
+  \end{minipage}\hfill
+\begin{minipage}[t]{0.65\textwidth}
+\begin{center}
+\large  \textsl{\textbf {\\ «Московский государственный технический университет имени Н.Э. Баумана» \\* (МГТУ им. Н.Э. Баумана) \\* }}
+  \end{center}
+\end{minipage}
+}
+
+\vspace{2em}
+
+\hrulefill
+
+\begin{center}
+ 	\vspace{0pt plus2fill} %число перед fill = кратность относительно некоторого расстояния fill, кусками которого заполнены пустые места
+	{\large
+	Факультет  <<Информатика и системы управления>>\\
+	Кафедра  <<Программное обеспечение ЭВМ и информационные технологии>>
+	}
+\end{center}
+
+{\Large
+\begin{center}
+	\textbf{Отчет по лабораторной работе №5 \\* по курсу: \\* } «Операционные системы» \\
+\end{center}
+}
+%
+\vspace{0pt plus4fill} %число перед fill = кратность относительно некоторого расстояния fill, кусками которого заполнены пустые места
+
+\begin{center}
+%Научный руководитель:
+\newlength{\ML}
+\hfillСтудент группы ИУ7-63Б:\hspace{0.2cm}\underline{М.\,В.~Заколесник}\\
+\hfill\hspace{1.7cm} (Фамилия И.О.)\\
+\hfillПреподователь:\hspace{0.2cm}\underline{Н.\,Ю.~Рязанова}\\
+\hfill\hspace{1.7cm} (Фамилия И.О.)\\
+%\supervisorRegalia
+
+%\supervisorFio
+\end{center}
+%
+
+\vspace{0pt plus4fill} %число перед fill = кратность относительно некоторого расстояния fill, кусками которого заполнены пустые места
+{\centeringМосква, 2019\par}
+\end{titlepage}
