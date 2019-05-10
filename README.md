@@ -28,7 +28,7 @@
 | :two: | :white_check_mark: | :white_check_mark: | :white_check_mark: | Рекурсивный(итерационный) обход дерева каталогов в Unix |
 | :three: | :white_check_mark: | :white_check_mark: | :white_check_mark: | Загружаемые модули ядра |
 | :four: | :white_check_mark: | :white_check_mark: | :x: | Обмен данными между пространством пользователя и пространством ядра(фортунка) |
-| :five: | :white_check_mark: :x: | :x: | :x: :white_check_mark: | Анализ особенностей работы функций ввода-вывода в UNIX/Linux |
+| :five: | :white_check_mark: | :x: | :x: :white_check_mark: | Анализ особенностей работы функций ввода-вывода в UNIX/Linux |
 | :six: | :x: | :x: | :x: | |
 | :seven: | :x: | :x: | :x: | |
 | :eight: | :x: | :x: | :x: | |
