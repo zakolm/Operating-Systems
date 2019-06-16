@@ -1,12 +1,45 @@
 %%% Работа с русским языком
-\usepackage{cmap}                   % поиск в PDF
 \usepackage{mathtext}               % русские буквы в формулах
 \usepackage[T2A]{fontenc}          % кодировка
 \usepackage[utf8]{inputenc}         % кодировка исходного текста
 \usepackage[english, russian]{babel}    % локализация и переносы
 \usepackage{color}                  % цветные буковки
 
+\usepackage{tocloft}% изменяем параметры оглавления
+\usepackage{graphicx} % библиотека для работы с графикой
+\graphicspath{ {./img/} } % путь к папке с изображениями
+\usepackage{amssymb,amsfonts,amsmath,mathtext,cite,enumerate,float} %подключаем нужные пакеты расширений
+\usepackage{cite} % Красивые ссылки на литературу
+\usepackage{mathtext}
+\usepackage{caption} % описания
+\usepackage{color} %% это для отображения цвета в коде
+\usepackage{listings} %% собственно, это и есть пакет listings
+\linespread{1.3}
+%%% Стили %%%
+\bibliographystyle{BibTeX-Styles/utf8gost71u}    % Оформляем библиографию по ГОСТ 7.1 (ГОСТ Р 7.0.11-2011, 5.6.7)
+\cftsetpnumwidth{3pt} % точки прям до цифр в оглавлении
 
+\makeatletter
+\renewcommand{\@biblabel}[1]{#1.} % Заменяем библиографию с квадратных скобок на точку:
+\makeatother
+
+\renewcommand{\theenumi}{\arabic{enumi}}% Меняем везде перечисления на цифра.цифра
+\renewcommand{\labelenumi}{\arabic{enumi})}% Меняем везде перечисления на цифра.цифра
+\renewcommand{\theenumii}{.\arabic{enumii}}% Меняем везде перечисления на цифра.цифра
+\renewcommand{\labelenumii}{\arabic{enumi}.\arabic{enumii}.}% Меняем везде перечисления на цифра.цифра
+\renewcommand{\theenumiii}{.\arabic{enumiii}}% Меняем везде перечисления на цифра.цифра
+\renewcommand{\labelenumiii}{\arabic{enumi}.\arabic{enumii}.\arabic{enumiii}.}% Меняем везде перечисления на цифра.цифра
+\renewcommand{\thesection}{\arabic{section}.}
+\renewcommand{\thesubsection}{\arabic{section}.\arabic{subsection}.}
+\newcommand{\tocsecindent}{\hspace{7mm}}
+\newcommand*{\No}{\textnumero}
+\definecolor{gray}{rgb}{0.5,0.5,0.5}
+\DeclareCaptionFont{white}{\color{white}} %% это сделает текст заголовка белым
+%% код ниже нарисует серую рамочку вокруг заголовка кода.
+\DeclareCaptionFormat{listing}{\colorbox{gray}{\parbox{\textwidth}{#1#2#3}}}
+\captionsetup[lstlisting]{format=listing,labelfont=white,textfont=white}
+\addto\captionsrussian{\def\refname{Список литературы}}
+\long\def\comment{}% многострочный комментарий
 
 \usepackage[top=20mm, bottom=20mm, left=30mm, right=15mm]{geometry}
 
@@ -16,9 +49,8 @@
 
 
 
-\usepackage{graphicx}
-
-\graphicspath{{img/}{../../graphics/}}
+\usepackage{graphicx} % библиотека для работы с графикой
+\graphicspath{ {./img/} } % путь к папке с изображениями
 
 
 

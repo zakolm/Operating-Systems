@@ -1,0 +1,18 @@
+\documentclass[a4paper,14pt]{report} %размер бумаги устанавливаем А4, шрифт 14 пунктов
+
+\input{preamble}
+
+\begin{document}
+    \include{title}
+    \include{prog1}
+    \include{prog2}
+    \include{prog3}
+    \section{Схемы программ}
+    	\begin{minipage}[t]{1\textwidth}
+		\centering\raisebox{\dimexpr \topskip-\height}{%
+		\includegraphics[width=\textwidth]{graph.pdf}}
+		\captionof{figure}{Схемы 1-3}
+		\label{fig4}
+	\end{minipage}\hfill
+    \include{results}
+\end{document}
