@@ -10,9 +10,9 @@
 | Number | Issued | Status | On GitHub | Exercise |
 |------|---|------|----------|---|
 | :one: | :white_check_mark: | :white_check_mark: | :x: | Прерывание Int 8h в Windows |
-| :two: | :white_check_mark: | :white_check_mark: | :white_check_mark: | Обработка прерываний Windows |
-| :three: | :white_check_mark: | :white_check_mark: | :white_check_mark: | Мьютексы Windows |
-| :four: | :white_check_mark: | :white_check_mark: | :white_check_mark: | Знакомство с операционной системой UNIX/LINUX, основные команды, работа с процессами, семафорами |
+| :two: | :white_check_mark: | :white_check_mark: | :white_check_mark: | [Обработка прерываний Windows](https://github.com/zakolm/Operating-Systems/tree/master/Semestr%231/lab_02) |
+| :three: | :white_check_mark: | :white_check_mark: | :white_check_mark: | [Мьютексы Windows](https://github.com/zakolm/Operating-Systems/tree/master/Semestr%231/lab_03) |
+| :four: | :white_check_mark: | :white_check_mark: | :white_check_mark: | [Знакомство с операционной системой UNIX/LINUX, основные команды, работа с процессами, семафорами](https://github.com/zakolm/Operating-Systems/tree/master/Semestr%231/Linux) |
 
 ---
 <h2>Лабораторные работы 6 семестра</h2>
