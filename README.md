@@ -24,11 +24,11 @@
 
 | Number | Issued | Status | On GitHub | Exercise |
 |----------|---|------|----------|---|
-| :one: | :white_check_mark: | :white_check_mark: | :white_check_mark: | Изучение простейшего демона в Unix и правил его написания |
-| :two: | :white_check_mark: | :white_check_mark: | :white_check_mark: | Рекурсивный и итерационный обходы дерева каталогов в Unix |
-| :three: | :white_check_mark: | :white_check_mark: | :white_check_mark: | Загружаемые модули ядра |
-| :four: | :white_check_mark: | :white_check_mark: | :white_check_mark: | Обмен данными между пространством пользователя и пространством ядра(фортунка) |
-| :five: | :white_check_mark: | :white_check_mark: | :white_check_mark::x: | Анализ особенностей работы функций ввода-вывода в UNIX/Linux, системная функция Open(анализ работы) |
+| :one: | :white_check_mark: | :white_check_mark: | :white_check_mark: | [Изучение простейшего демона в Unix и правил его написания](https://github.com/zakolm/Operating-Systems/tree/master/Semestr%232/lab_01) |
+| :two: | :white_check_mark: | :white_check_mark: | :white_check_mark: | [Рекурсивный и итерационный обходы дерева каталогов в Unix](https://github.com/zakolm/Operating-Systems/tree/master/Semestr%232/lab_02) |
+| :three: | :white_check_mark: | :white_check_mark: | :white_check_mark: | [Загружаемые модули ядра](https://github.com/zakolm/Operating-Systems/tree/master/Semestr%232/lab_03) |
+| :four: | :white_check_mark: | :white_check_mark: | :white_check_mark: | [Обмен данными между пространством пользователя и пространством ядра(фортунка)](https://github.com/zakolm/Operating-Systems/tree/master/Semestr%232/lab_04) |
+| :five: | :white_check_mark: | :white_check_mark: | :white_check_mark::x: | [Анализ особенностей работы функций ввода-вывода в UNIX/Linux, системная функция Open(анализ работы)](https://github.com/zakolm/Operating-Systems/tree/master/Semestr%232/lab_05) |
 | :six: | :white_check_mark: | :white_check_mark: | :x: | Виртуальная файловая система |
 | :seven: | :white_check_mark: | :white_check_mark: | :white_check_mark: | [Обработчики прерываний(тасклеты)](https://github.com/zakolm/Operating-Systems/tree/master/Semestr%232/lab_07_08/7) |
 | :eight: | :white_check_mark: | :white_check_mark: | :white_check_mark: | [Обработчики прерываний(очередь работ)](https://github.com/zakolm/Operating-Systems/tree/master/Semestr%232/lab_07_08/8) |
