@@ -30,7 +30,7 @@
 | :four: | :white_check_mark: | :white_check_mark: | :white_check_mark: | Обмен данными между пространством пользователя и пространством ядра(фортунка) |
 | :five: | :white_check_mark: | :white_check_mark: | :white_check_mark::x: | Анализ особенностей работы функций ввода-вывода в UNIX/Linux, системная функция Open(анализ работы) |
 | :six: | :white_check_mark: | :white_check_mark: | :x: | Виртуальная файловая система |
-| :seven: | :white_check_mark: | :white_check_mark: | :white_check_mark: | Обработчики прерываний(тасклеты) |
-| :eight: | :white_check_mark: | :white_check_mark: | :white_check_mark: | Обработчики прерываний(очередь работ) |
-| :nine: | :white_check_mark: | :white_check_mark: | :white_check_mark: | *nix сокеты |
-| :one::zero: | :white_check_mark: | :white_check_mark: | :white_check_mark: | Сетевые сокеты |
+| :seven: | :white_check_mark: | :white_check_mark: | :white_check_mark: | [Обработчики прерываний(тасклеты)](https://github.com/zakolm/Operating-Systems/tree/master/Semestr%232/lab_07_08/7) |
+| :eight: | :white_check_mark: | :white_check_mark: | :white_check_mark: | [Обработчики прерываний(очередь работ)](https://github.com/zakolm/Operating-Systems/tree/master/Semestr%232/lab_07_08/8) |
+| :nine: | :white_check_mark: | :white_check_mark: | :white_check_mark: | [*nix сокеты](https://github.com/zakolm/Operating-Systems/tree/master/Semestr%232/lab_09_10/unix) |
+| :one::zero: | :white_check_mark: | :white_check_mark: | :white_check_mark: | [Сетевые сокеты](https://github.com/zakolm/Operating-Systems/tree/master/Semestr%232/lab_09_10/net) |
