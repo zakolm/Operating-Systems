@@ -30,7 +30,7 @@
 | :four: | :white_check_mark: | :white_check_mark: | :x: | Обмен данными между пространством пользователя и пространством ядра(фортунка) |
 | :five: | :white_check_mark: | :white_check_mark::x: | :white_check_mark::x: | Анализ особенностей работы функций ввода-вывода в UNIX/Linux, системная функция Open(анализ работы) |
 | :six: | :white_check_mark: | :white_check_mark: | :x: | Виртуальная файловая система |
-| :seven: | :white_check_mark: | :white_check_mark: | :x: | Обработчики прерываний(тасклеты) |
-| :eight: | :white_check_mark: | :white_check_mark: | :x: | Обработчики прерываний(очередь работ) |
+| :seven: | :white_check_mark: | :white_check_mark: | :white_check_mark: | Обработчики прерываний(тасклеты) |
+| :eight: | :white_check_mark: | :white_check_mark: | :white_check_mark: | Обработчики прерываний(очередь работ) |
 | :nine: | :white_check_mark: | :white_check_mark: | :x: | *nix сокеты |
 | :one::zero: | :white_check_mark: | :white_check_mark: | :x: | Сетевые сокеты |
