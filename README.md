@@ -27,7 +27,7 @@
 | :one: | :white_check_mark: | :white_check_mark: | :white_check_mark: | Изучение простейшего демона в Unix и правил его написания |
 | :two: | :white_check_mark: | :white_check_mark: | :white_check_mark: | Рекурсивный и итерационный обходы дерева каталогов в Unix |
 | :three: | :white_check_mark: | :white_check_mark: | :white_check_mark: | Загружаемые модули ядра |
-| :four: | :white_check_mark: | :white_check_mark: | :x: | Обмен данными между пространством пользователя и пространством ядра(фортунка) |
+| :four: | :white_check_mark: | :white_check_mark: | :white_check_mark: | Обмен данными между пространством пользователя и пространством ядра(фортунка) |
 | :five: | :white_check_mark: | :white_check_mark: | :white_check_mark::x: | Анализ особенностей работы функций ввода-вывода в UNIX/Linux, системная функция Open(анализ работы) |
 | :six: | :white_check_mark: | :white_check_mark: | :x: | Виртуальная файловая система |
 | :seven: | :white_check_mark: | :white_check_mark: | :white_check_mark: | Обработчики прерываний(тасклеты) |
