@@ -32,5 +32,5 @@
 | :six: | :white_check_mark: | :white_check_mark: | :x: | Виртуальная файловая система |
 | :seven: | :white_check_mark: | :white_check_mark: | :white_check_mark: | Обработчики прерываний(тасклеты) |
 | :eight: | :white_check_mark: | :white_check_mark: | :white_check_mark: | Обработчики прерываний(очередь работ) |
-| :nine: | :white_check_mark: | :white_check_mark: | :x: | *nix сокеты |
-| :one::zero: | :white_check_mark: | :white_check_mark: | :x: | Сетевые сокеты |
+| :nine: | :white_check_mark: | :white_check_mark: | :white_check_mark: | *nix сокеты |
+| :one::zero: | :white_check_mark: | :white_check_mark: | :white_check_mark: | Сетевые сокеты |
